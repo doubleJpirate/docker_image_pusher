@@ -8,3 +8,4 @@ python:alpine3.19
 redis
 centos:7
 mysql
+rocketmqinc/rocketmq
